@@ -1,5 +1,4 @@
 const app = {};
-const colours = [];
 
 app.getColorIndex = (color) => {
     return $.ajax({
